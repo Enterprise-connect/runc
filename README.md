@@ -1,4 +1,4 @@
-# runc
+# EC Self-Container Platform Initiative.
 
 [![Build Status](https://travis-ci.org/opencontainers/runc.svg?branch=master)](https://travis-ci.org/opencontainers/runc)
 [![Go Report Card](https://goreportcard.com/badge/github.com/opencontainers/runc)](https://goreportcard.com/report/github.com/opencontainers/runc)
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-`runc` is a CLI tool for spawning and running containers according to the OCI specification.
+Highlight EC's latest attempt to develop Docker-Like container and runs in any given VMs. This package was forked from the [opencontainer/run](https://github.com/opencontainers/runc), aligning with Enterprise-Connect's Network-as-a-Platform approach and is designed to run across all IIoT usage. 
 
 ## Releases
 
