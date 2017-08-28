@@ -1,4 +1,4 @@
-# EC Self-Contained Platform Initiative.
+# EC Self-Container Platform Initiative.
 
 [![Build Status](https://travis-ci.org/opencontainers/runc.svg?branch=master)](https://travis-ci.org/opencontainers/runc)
 [![Go Report Card](https://goreportcard.com/badge/github.com/opencontainers/runc)](https://goreportcard.com/report/github.com/opencontainers/runc)
